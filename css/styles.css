@@ -20,16 +20,14 @@ img{
    
 }
 
-.perfil {
+.perfil{
     background-color: rgb(216, 216, 216);
-    width: 800px;
+    width: 1000px;
     height: 200px;
     position: relative;
     margin-top: 20px;
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
-    /* justify-content: center; */
     align-content: flex-start;
 }
 
